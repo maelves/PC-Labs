@@ -1,4 +1,4 @@
-// Degrees in Radians
+// Degrees to Radians
 
 #include <stdio.h>
 #include <stdlib.h>
